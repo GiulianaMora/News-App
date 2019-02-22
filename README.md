@@ -8,3 +8,5 @@ Eighth Udacity Project (Android Basics: Networking) - News App
 ![screenshot_1550797332](https://user-images.githubusercontent.com/36802522/53212930-b74f4600-35fb-11e9-87f2-eb8f4d3736b6.png)
 
 ![screenshot_1550797628](https://user-images.githubusercontent.com/36802522/53213012-27f66280-35fc-11e9-837a-e739117a7bf8.png)
+
+![screenshot_1550797394](https://user-images.githubusercontent.com/36802522/53213091-7277df00-35fc-11e9-9579-3d5e0d342452.png)
